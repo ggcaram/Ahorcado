@@ -6,24 +6,21 @@ _Juego de ahorcado por consola_
 
 
 
-### Instalación 🔧
+### Pasos para correr 🔧
 
-_1) Ingresar a la version online: https://csb-qu0p7.netlify.app/_
-
-_2) O al codigo en code sandbox: https://codesandbox.io/s/botonera-mortal-qu0p7_
+_1) Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
 
 
 ## Funcionalidades ⚙️
 
-* **Sonidos por teclado** - Al clickear - del "A" a la "L"
+* **Solo caracteres ascii* - No toma Ñ o caracteres distintos al abecedario anglo
 
 
 ## Construido con 🛠️
 
-* [Htlml]
-* [CSS]
-* [Javascript Vanilla]
-
+* [Python]
+* 
 ## Autor ✒️
 
 * **Gabriel Cura Caram** - [ggcaram](https://github.com/ggcaram)
+* Fuente: https://youtu.be/tWnyBD2src0
