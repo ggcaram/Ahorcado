@@ -19,7 +19,8 @@ _1) Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras.
 ## Construido con 🛠️
 
 * [Python]
-* 
+
+
 ## Autor ✒️
 
 * **Gabriel Cura Caram** - [ggcaram](https://github.com/ggcaram)
