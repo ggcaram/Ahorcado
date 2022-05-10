@@ -8,12 +8,12 @@ _Juego de ahorcado por consola_
 
 ### Para correr 🔧
 
-_Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
+Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
 
 
 ## Funcionalidades ⚙️
 
-* **Solo caracteres ascii* - No toma Ñ o caracteres distintos al abecedario anglo
+* **Solo caracteres ascii** - No toma Ñ o caracteres distintos al abecedario anglo
 
 
 ## Construido con 🛠️
