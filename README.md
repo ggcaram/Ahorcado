@@ -6,7 +6,7 @@ _Juego de ahorcado por consola_
 
 
 
-### Para correr 🔧
+## Para correr 🔧
 
 Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
 
