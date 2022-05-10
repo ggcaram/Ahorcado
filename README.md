@@ -2,7 +2,8 @@
 
 _Juego de ahorcado por consola_
 
-![image](![image](https://user-images.githubusercontent.com/63132435/167677587-2668fbe1-e51e-4b60-bf52-d348e2e8e56a.png))
+![ahorcado](https://user-images.githubusercontent.com/63132435/167677815-95d66e20-ff18-467f-9394-61081872e11c.png)
+
 
 
 ### Instalación 🔧
