@@ -6,9 +6,9 @@ _Juego de ahorcado por consola_
 
 
 
-### Pasos para correr 🔧
+### Para correr 🔧
 
-_1) Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
+_Abrir el archivo main en un ide y ejecutar, por consola ingresar las letras. 
 
 
 ## Funcionalidades ⚙️
